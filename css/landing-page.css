@@ -25,6 +25,18 @@ h6 {
     font-size: 14px; 
 }
 
+.navbar{
+    background-color: #490A3D;
+}
+
+a.navbar-brand.topnav {
+    color: white;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
